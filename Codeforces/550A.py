@@ -1,0 +1,6 @@
+s=input()
+a=s.find('AB')
+b=s.rfind('AB')
+c=s.find('BA')
+d=s.rfind('BA')
+print(['NO','YES'][(abs(a-d)>1 or abs(b-c)>1) and min(a,b,c,d)>=0])
