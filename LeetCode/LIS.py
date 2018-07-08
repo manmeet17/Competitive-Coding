@@ -26,11 +26,11 @@ def main():
     while True:
         try:
             line = next(lines)
-            nums = stringToIntegerList(line);
+            nums = stringToIntegerList(line)
             
             ret = Solution().lengthOfLIS(nums)
 
-            out = str(ret);
+            out = str(ret)
             print(out)
         except StopIteration:
             break
