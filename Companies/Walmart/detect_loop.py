@@ -1,7 +1,7 @@
 def detectLoop(head):
     temp=head
     f=0
-    while head.next is not None:
+    while temp!=None and temp.next!=None:
         head=head.next
         temp=temp.next.next
         if(head.data==temp.data):
