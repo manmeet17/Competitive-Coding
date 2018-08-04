@@ -1,6 +1,2 @@
 # Competitive-Coding
-All the problems that i have solved on various websites
-This
-is
-for
-hacktober
+All the problems that I have solved on various websites
