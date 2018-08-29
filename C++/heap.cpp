@@ -36,7 +36,7 @@ int left(struct Heap *h,int i){
 }
 
 int right(struct Heap *h,int i){
-    int right=2*i+1;
+    int right=2*i+2;
     if(right>h->count)
         return -1;
     return right;
@@ -90,6 +90,8 @@ int insert(struct Heap *h,int data){
     h->array[i]=data;
     return data;
 }
+
+
 
 
 
