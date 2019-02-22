@@ -1,0 +1,1 @@
+{"index.js":"function multiplesOf3and5(number) {\n  // Good luck!\n  let ans=0;\n  for(var i=3;i<number;i++){\n    if(i%3==0 || i%5==0)\n      ans+=i;\n  }\n  return ans;\n}\n\nmultiplesOf3and5(1000);"}

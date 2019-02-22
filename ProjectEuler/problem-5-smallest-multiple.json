@@ -1,0 +1,1 @@
+{"index.js":"function gcd(a, b) {\n    if (b) {\n        return gcd(b, a % b);\n    } else {\n        return Math.abs(a);\n    }\n}\n\nfunction smallestMult(n) {\n  // Good luck!\n  // let ans=1;\n  let lcm=1;\n  for(let i=2;i<=n;i++){\n    lcm=(lcm*i)/gcd(lcm,i);\n    // console.log(lcm);\n  }\n  return lcm;\n}\n\n// console.log(smallestMult(20))\nsmallestMult(20);"}
