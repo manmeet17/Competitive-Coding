@@ -1,0 +1,1 @@
+{"index.js":"function sumSquareDifference(n) {\n  // Good luck!\n  let ans=0,a=0;\n  for(let i=1;i<=n;i++){\n    ans+=i*i;\n    a+=i;\n  }\n  return Math.abs(a*a-ans);\n}\n\nsumSquareDifference(100);"}
