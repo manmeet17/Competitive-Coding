@@ -1,0 +1,498 @@
+contestId,index,name,points,rating,tags,type
+4,C,Registration System,,1500.0,"['data structures', 'hashing', 'implementation']",PROGRAMMING
+873,B,Balanced Substring,,1500.0,"['dp', 'implementation']",PROGRAMMING
+713,A,Sonya and Queries,500.0,1500.0,"['data structures', 'implementation']",PROGRAMMING
+709,B,Checkpoints,1000.0,1500.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+702,B,Powers of Two,,1500.0,"['brute force', 'data structures', 'implementation', 'math']",PROGRAMMING
+696,A,Lorenzo Von Matterhorn,500.0,1500.0,"['brute force', 'data structures', 'implementation', 'trees']",PROGRAMMING
+677,C,Vanya and Label,1500.0,1500.0,['implementation'],PROGRAMMING
+676,B,Pyramid of Glasses,1000.0,1500.0,['implementation'],PROGRAMMING
+643,A,Bear and Colors,500.0,1500.0,['implementation'],PROGRAMMING
+659,D,Bicycle Race,1250.0,1500.0,"['geometry', 'implementation', 'math']",PROGRAMMING
+864,D,Make a Permutation!,2000.0,1500.0,"['greedy', 'implementation']",PROGRAMMING
+637,A,Voting for Photos,500.0,1500.0,"['*special', 'constructive algorithms', 'implementation']",PROGRAMMING
+887,C,Solution for Cube,1500.0,1500.0,"['brute force', 'implementation']",PROGRAMMING
+991,C,Candies,1250.0,1500.0,"['binary search', 'implementation']",PROGRAMMING
+1106,B,Lunar New Year and Food Ordering,1000.0,1500.0,"['data structures', 'implementation']",PROGRAMMING
+1101,E,Polycarp's New Job,,1500.0,['implementation'],PROGRAMMING
+1081,B,Farewell Party,1000.0,1500.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+1084,C,The Fair Nut and String,1500.0,1500.0,"['combinatorics', 'dp', 'implementation']",PROGRAMMING
+1061,B,Views Matter,1000.0,1500.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+1043,C,Smallest Word,1500.0,1500.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+1046,F,Splitting money,,1500.0,['implementation'],PROGRAMMING
+1012,A,Photo of The Sky,500.0,1500.0,"['brute force', 'implementation', 'math', 'sortings']",PROGRAMMING
+1009,B,Minimum Ternary String,,1500.0,"['greedy', 'implementation']",PROGRAMMING
+997,A,Convert to Ones,500.0,1500.0,"['brute force', 'greedy', 'implementation', 'math']",PROGRAMMING
+724,B,Batch Sort,1000.0,1500.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+748,B,Santa Claus and Keyboard Check,1000.0,1500.0,"['implementation', 'strings']",PROGRAMMING
+770,A,New Password,500.0,1500.0,['implementation'],PROGRAMMING
+809,A,Do you want a date?,500.0,1500.0,"['implementation', 'math', 'sortings']",PROGRAMMING
+81,A,Plug-in,500.0,1500.0,['implementation'],PROGRAMMING
+144,C,Anagram Search,1500.0,1500.0,"['implementation', 'strings']",PROGRAMMING
+29,B,Traffic Lights,1000.0,1500.0,['implementation'],PROGRAMMING
+24,B,F1 Champions,,1500.0,['implementation'],PROGRAMMING
+130,B,Gnikool Ssalg,,1500.0,"['*special', 'implementation', 'strings']",PROGRAMMING
+72,I,Goofy Numbers,,1500.0,"['*special', 'implementation']",PROGRAMMING
+79,B,Colorful Field,1000.0,1500.0,"['implementation', 'sortings']",PROGRAMMING
+75,B,Facetook Priority Wall,1000.0,1500.0,"['expression parsing', 'implementation', 'strings']",PROGRAMMING
+88,B,Keyboard,1000.0,1500.0,['implementation'],PROGRAMMING
+8,B,Obsession with Robots,,1500.0,"['constructive algorithms', 'graphs', 'implementation']",PROGRAMMING
+45,A,Codecraft III,,1500.0,['implementation'],PROGRAMMING
+9,B,Running Student,,1500.0,"['brute force', 'geometry', 'implementation']",PROGRAMMING
+9,C,Hexadecimal's Numbers,,1500.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+87,A,Trains,500.0,1500.0,"['implementation', 'math']",PROGRAMMING
+42,A,Guilty --- to the kitchen!,500.0,1500.0,"['greedy', 'implementation']",PROGRAMMING
+1141,D,Colored Boots,,1500.0,"['greedy', 'implementation']",PROGRAMMING
+165,B,Burning Midnight Oil,1000.0,1500.0,"['binary search', 'implementation']",PROGRAMMING
+864,C,Bus,1500.0,1500.0,"['greedy', 'implementation', 'math']",PROGRAMMING
+847,A,Union of Doubly Linked Lists,,1500.0,['implementation'],PROGRAMMING
+846,A,Curriculum Vitae,,1500.0,"['brute force', 'implementation']",PROGRAMMING
+817,B,Makes And The Product,,1500.0,"['combinatorics', 'implementation', 'math', 'sortings']",PROGRAMMING
+995,B,Suit and Tie,750.0,1500.0,"['greedy', 'implementation', 'math']",PROGRAMMING
+858,C,Did you mean...,1500.0,1500.0,"['dp', 'greedy', 'implementation']",PROGRAMMING
+990,C,Bracket Sequences Concatenation Problem,,1500.0,['implementation'],PROGRAMMING
+518,B,Tanya and Postcard,1000.0,1500.0,"['implementation', 'strings']",PROGRAMMING
+386,B,"Fly, freebies, fly!",1000.0,1500.0,"['binary search', 'brute force', 'implementation']",PROGRAMMING
+384,B,Multitasking,1000.0,1500.0,"['greedy', 'implementation', 'sortings', 'two pointers']",PROGRAMMING
+400,C,Inna and Huge Candy Matrix,1500.0,1500.0,"['implementation', 'math']",PROGRAMMING
+599,B,Spongebob and Joke,1000.0,1500.0,['implementation'],PROGRAMMING
+569,A,Music,500.0,1500.0,"['implementation', 'math']",PROGRAMMING
+557,B,Pasha and Tea,1000.0,1500.0,"['implementation', 'sortings']",PROGRAMMING
+555,A,Case of Matryoshkas,250.0,1500.0,['implementation'],PROGRAMMING
+550,A,Two Substrings,1000.0,1500.0,"['brute force', 'dp', 'implementation', 'strings']",PROGRAMMING
+538,A,Cutting Banner,500.0,1500.0,"['brute force', 'implementation']",PROGRAMMING
+526,B,Om Nom and Dark Park,500.0,1500.0,"['dfs and similar', 'greedy', 'implementation']",PROGRAMMING
+148,B,Escape,1000.0,1500.0,"['implementation', 'math']",PROGRAMMING
+174,B,File List,1000.0,1500.0,"['dp', 'greedy', 'implementation']",PROGRAMMING
+490,B,Queue,1000.0,1500.0,"['dsu', 'implementation']",PROGRAMMING
+460,B,Little Dima and Equation,1000.0,1500.0,"['brute force', 'implementation', 'math', 'number theory']",PROGRAMMING
+443,B,Kolya and Tandem Repeat,1000.0,1500.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+441,C,Valera and Tubes ,1500.0,1500.0,"['constructive algorithms', 'dfs and similar', 'implementation']",PROGRAMMING
+437,B,The Child and Set,1500.0,1500.0,"['bitmasks', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+417,C,Football,1500.0,1500.0,"['constructive algorithms', 'graphs', 'implementation']",PROGRAMMING
+417,A,Elimination,500.0,1500.0,"['dp', 'implementation', 'math']",PROGRAMMING
+404,B,Marathon,1000.0,1500.0,"['implementation', 'math']",PROGRAMMING
+493,B,Vasya and Wrestling,1000.0,1500.0,['implementation'],PROGRAMMING
+978,F,Mentors,,1500.0,"['binary search', 'data structures', 'implementation']",PROGRAMMING
+369,B,Valera and Contest,1000.0,1500.0,"['constructive algorithms', 'implementation', 'math']",PROGRAMMING
+496,B,Secret Combination,1000.0,1500.0,"['brute force', 'constructive algorithms', 'implementation']",PROGRAMMING
+188,E,HQ9+,,1500.0,"['*special', 'implementation']",PROGRAMMING
+325,A,Square and Rectangles,500.0,1500.0,['implementation'],PROGRAMMING
+978,D,Almost Arithmetic Progression,,1500.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+219,B,Special Offer! Super Price 999 Bourles!,1000.0,1500.0,['implementation'],PROGRAMMING
+976,C,Nested Segments,,1500.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+908,C,New Year and Curling,1000.0,1500.0,"['brute force', 'geometry', 'implementation', 'math']",PROGRAMMING
+875,B,Sorting the Coins,1000.0,1500.0,"['dsu', 'implementation', 'sortings', 'two pointers']",PROGRAMMING
+614,A,Link/Cut Tree,500.0,1500.0,"['brute force', 'implementation']",PROGRAMMING
+609,C,Load Balancing,,1500.0,"['implementation', 'math']",PROGRAMMING
+367,A,Sereja and Algorithm ,500.0,1500.0,"['data structures', 'implementation']",PROGRAMMING
+342,B,Xenia and Spies,1000.0,1500.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+332,B,Maximum Absurdity,1000.0,1500.0,"['data structures', 'dp', 'implementation']",PROGRAMMING
+611,C,New Year and Domino,1250.0,1500.0,"['dp', 'implementation']",PROGRAMMING
+295,A,Greg and Array,500.0,1500.0,"['data structures', 'implementation']",PROGRAMMING
+224,B,Array,1000.0,1500.0,"['bitmasks', 'implementation', 'two pointers']",PROGRAMMING
+290,B,QR code,,1500.0,"['*special', 'implementation']",PROGRAMMING
+272,C,Dima and Staircase,1500.0,1500.0,"['data structures', 'implementation']",PROGRAMMING
+271,C,Secret,1500.0,1500.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+268,C,Beautiful Sets of Points,1500.0,1500.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+254,B,Jury Size,1000.0,1500.0,"['brute force', 'implementation']",PROGRAMMING
+250,B,Restoring IPv6,1000.0,1500.0,"['implementation', 'strings']",PROGRAMMING
+239,B,Easy Tape Programming,1000.0,1500.0,"['brute force', 'implementation']",PROGRAMMING
+237,B,Young Table,1000.0,1500.0,"['implementation', 'sortings']",PROGRAMMING
+12,B,Correct Solution?,,1400.0,"['implementation', 'sortings']",PROGRAMMING
+579,B,Finding Team Member,500.0,1400.0,"['brute force', 'implementation', 'sortings']",PROGRAMMING
+220,A,Little Elephant and Problem,500.0,1400.0,"['implementation', 'sortings']",PROGRAMMING
+1062,A,A Prank,500.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+203,B,Game on Paper,1000.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+1097,C,Yuhao and a Parenthesis,1500.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+188,C,LCM,,1400.0,"['*special', 'implementation', 'math']",PROGRAMMING
+581,C,Developing Skills,1500.0,1400.0,"['implementation', 'math', 'sortings']",PROGRAMMING
+175,A,Robot Bicorn Attack,500.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+188,D,Asterisks,,1400.0,"['*special', 'implementation']",PROGRAMMING
+6,B,President's Office,,1400.0,['implementation'],PROGRAMMING
+188,B,A + Reverse B,,1400.0,"['*special', 'implementation']",PROGRAMMING
+182,D,Common Divisors,1000.0,1400.0,"['brute force', 'hashing', 'implementation', 'math', 'strings']",PROGRAMMING
+135,A,Replacement,500.0,1400.0,"['implementation', 'sortings']",PROGRAMMING
+1103,A,Grid game,500.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+475,B,Strongly Connected City,1000.0,1400.0,"['brute force', 'dfs and similar', 'graphs', 'implementation']",PROGRAMMING
+5,B,Center Alignment,,1400.0,"['implementation', 'strings']",PROGRAMMING
+228,B,Two Tables,1000.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+1054,C,Candies Distribution,1250.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+1066,C,Books Queries,,1400.0,['implementation'],PROGRAMMING
+573,A,Bear and Poker,500.0,1400.0,"['implementation', 'number theory']",PROGRAMMING
+572,B,Order Book,1000.0,1400.0,"['data structures', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+12,C,Fruits,,1400.0,"['implementation', 'sortings']",PROGRAMMING
+1051,C,Vasya and Multisets,,1400.0,"['brute force', 'dp', 'greedy', 'implementation', 'math']",PROGRAMMING
+614,B,Gena's Code,1000.0,1400.0,['implementation'],PROGRAMMING
+245,E,Mishap in Club,,1400.0,"['greedy', 'implementation']",PROGRAMMING
+634,A,Island Puzzle,500.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+652,A,Gabriel and Caterpillar,,1400.0,['implementation'],PROGRAMMING
+14,B,Young Photographer,,1400.0,['implementation'],PROGRAMMING
+962,C,Make a Square,,1400.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+162,A,Pentagonal numbers,,1400.0,"['*special', 'implementation']",PROGRAMMING
+15,A,Cottage Village,,1400.0,"['implementation', 'sortings']",PROGRAMMING
+57,A,Square Earth?,500.0,1400.0,"['dfs and similar', 'greedy', 'implementation']",PROGRAMMING
+260,A,Adding Digits,500.0,1400.0,"['implementation', 'math']",PROGRAMMING
+331,A1,Oh Sweet Beaverette,30.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+1005,C,Summarize to the Power of Two,,1400.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+257,B,Playing Cubes,500.0,1400.0,"['games', 'greedy', 'implementation']",PROGRAMMING
+152,B,Steps,1000.0,1400.0,"['binary search', 'implementation']",PROGRAMMING
+264,A,Escape from Stones,500.0,1400.0,"['constructive algorithms', 'data structures', 'implementation', 'two pointers']",PROGRAMMING
+1004,C,Sonya and Robots,1500.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+1004,B,Sonya and Exhibition,1000.0,1400.0,"['constructive algorithms', 'greedy', 'implementation', 'math']",PROGRAMMING
+270,B,Multithreading,1500.0,1400.0,"['data structures', 'greedy', 'implementation']",PROGRAMMING
+272,B,Dima and Sequence,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+558,B,Amr and The Large Array,1000.0,1400.0,['implementation'],PROGRAMMING
+279,A,Point on Spiral,500.0,1400.0,"['brute force', 'geometry', 'implementation']",PROGRAMMING
+279,B,Books,1000.0,1400.0,"['binary search', 'brute force', 'implementation', 'two pointers']",PROGRAMMING
+284,A,Cows and Primitive Roots,500.0,1400.0,"['implementation', 'math', 'number theory']",PROGRAMMING
+175,B,Plane of Tanks: Pro,500.0,1400.0,['implementation'],PROGRAMMING
+18,C,Stripe,,1400.0,"['data structures', 'implementation']",PROGRAMMING
+290,A,Mysterious strings,,1400.0,"['*special', 'implementation']",PROGRAMMING
+994,B,Knights of a Polygonal Table,1000.0,1400.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+289,B,Polo the Penguin and Matrix,1000.0,1400.0,"['brute force', 'dp', 'implementation', 'sortings', 'ternary search']",PROGRAMMING
+124,B,Permutations,1000.0,1400.0,"['brute force', 'combinatorics', 'implementation']",PROGRAMMING
+19,A,World Football Cup,,1400.0,['implementation'],PROGRAMMING
+988,C,Equal Sums,,1400.0,"['implementation', 'sortings']",PROGRAMMING
+987,C,Three displays,1250.0,1400.0,"['brute force', 'dp', 'implementation']",PROGRAMMING
+981,C,Useful Decomposition,1250.0,1400.0,"['implementation', 'trees']",PROGRAMMING
+303,A,Lucky Permutation Triple,500.0,1400.0,"['constructive algorithms', 'implementation', 'math']",PROGRAMMING
+304,B,Calendar,1000.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+311,A,The Closest Pair,500.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+313,C,Ilya and Matrix,1500.0,1400.0,"['constructive algorithms', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+602,B,Approximating a Constant Range,1000.0,1400.0,"['dp', 'implementation', 'two pointers']",PROGRAMMING
+641,B,Little Artem and Matrix,750.0,1400.0,['implementation'],PROGRAMMING
+954,B,String Typing,,1400.0,"['implementation', 'strings']",PROGRAMMING
+100,C,A+B,,1400.0,"['*special', 'implementation']",PROGRAMMING
+71,B,Progress Bar,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+34,C,Page Numbers,1500.0,1400.0,"['expression parsing', 'implementation', 'sortings', 'strings']",PROGRAMMING
+514,B,Han Solo and Lazer Gun,1000.0,1400.0,"['brute force', 'data structures', 'geometry', 'implementation', 'math']",PROGRAMMING
+357,B,Flag Day,1000.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+922,A,Cloning Toys,500.0,1400.0,['implementation'],PROGRAMMING
+545,D,Queue,1750.0,1400.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+955,B,Not simply beatiful strings,1000.0,1400.0,['implementation'],PROGRAMMING
+358,A,Dima and Continuous Line,500.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+924,A,Mystical Mosaic,500.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+697,B,Barnicle,1000.0,1400.0,['implementation'],PROGRAMMING
+548,B,Mike and Fun,1000.0,1400.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+117,A,Elevator,500.0,1400.0,"['implementation', 'math']",PROGRAMMING
+961,C,Chessboard,,1400.0,"['bitmasks', 'brute force', 'implementation']",PROGRAMMING
+121,A,Lucky Sum,500.0,1400.0,['implementation'],PROGRAMMING
+56,B,Spoilt Permutation,1000.0,1400.0,['implementation'],PROGRAMMING
+36,A,Extra-terrestrial Intelligence,500.0,1400.0,['implementation'],PROGRAMMING
+363,C,Fixing Typos,1500.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+66,A,Petya and Java,500.0,1400.0,"['implementation', 'strings']",PROGRAMMING
+888,C,K-Dominant Character,,1400.0,"['binary search', 'implementation', 'two pointers']",PROGRAMMING
+689,A,Mike and Cellphone,500.0,1400.0,"['brute force', 'constructive algorithms', 'implementation']",PROGRAMMING
+538,B,Quasi Binary,1000.0,1400.0,"['constructive algorithms', 'dp', 'greedy', 'implementation']",PROGRAMMING
+673,B,Problems for Round,750.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+898,C,Phone Numbers,1500.0,1400.0,"['implementation', 'strings']",PROGRAMMING
+598,B,Queries on a String,,1400.0,"['implementation', 'strings']",PROGRAMMING
+677,B,Vanya and Food Processor,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+520,B,Two Buttons,1000.0,1400.0,"['dfs and similar', 'graphs', 'greedy', 'implementation', 'math', 'shortest paths']",PROGRAMMING
+544,B,Sea and Islands,1000.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+907,B,Tic-Tac-Toe,1000.0,1400.0,['implementation'],PROGRAMMING
+907,A,Masha and Bears,500.0,1400.0,"['brute force', 'implementation']",PROGRAMMING
+416,A,Guess a number!,500.0,1400.0,"['greedy', 'implementation', 'two pointers']",PROGRAMMING
+670,D1,Magic Powder - 1,1000.0,1400.0,"['binary search', 'brute force', 'implementation']",PROGRAMMING
+436,B,Om Nom and Spiders,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+441,B,Valera and Fruits,1000.0,1400.0,"['greedy', 'implementation']",PROGRAMMING
+670,C,Cinema,1000.0,1400.0,"['implementation', 'sortings']",PROGRAMMING
+868,B,Race Against Time,500.0,1400.0,['implementation'],PROGRAMMING
+699,B,One Bomb,1000.0,1400.0,['implementation'],PROGRAMMING
+745,B,Hongcow Solves A Puzzle,1000.0,1400.0,['implementation'],PROGRAMMING
+99,B,Help Chef Gerasim,1000.0,1400.0,"['implementation', 'sortings']",PROGRAMMING
+703,B,Mishka and trip,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+41,C,Email address,1500.0,1400.0,"['expression parsing', 'implementation']",PROGRAMMING
+843,A,Sorting by Subsequences,500.0,1400.0,"['dfs and similar', 'dsu', 'implementation', 'math', 'sortings']",PROGRAMMING
+816,B,Karen and Coffee,1000.0,1400.0,"['binary search', 'data structures', 'implementation']",PROGRAMMING
+493,A,Vasya and Football,500.0,1400.0,['implementation'],PROGRAMMING
+437,A,The Child and Homework,500.0,1400.0,['implementation'],PROGRAMMING
+94,B,Friends,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+401,C,Team,1500.0,1400.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+417,B,Crash,1000.0,1400.0,['implementation'],PROGRAMMING
+799,B,T-shirt buying,1000.0,1400.0,"['data structures', 'implementation']",PROGRAMMING
+730,H,Delete Them,,1400.0,['implementation'],PROGRAMMING
+448,B,Suffix Structures,1000.0,1400.0,"['implementation', 'strings']",PROGRAMMING
+747,C,Servers,1500.0,1400.0,['implementation'],PROGRAMMING
+485,A,Factory,1000.0,1400.0,"['implementation', 'math', 'matrices']",PROGRAMMING
+470,A,Crystal Ball Sequence,,1400.0,"['*special', 'implementation']",PROGRAMMING
+486,B,OR in Matrix,1000.0,1400.0,"['greedy', 'hashing', 'implementation']",PROGRAMMING
+479,B,Towers,1000.0,1400.0,"['brute force', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+489,C,Given Length and Sum of Digits...,1500.0,1400.0,"['dp', 'greedy', 'implementation']",PROGRAMMING
+797,B,Odd sum,,1400.0,"['dp', 'greedy', 'implementation']",PROGRAMMING
+804,B,Minimum number of steps,1000.0,1400.0,"['combinatorics', 'greedy', 'implementation', 'math']",PROGRAMMING
+85,A,Domino,500.0,1400.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+450,B,Jzzhu and Sequences,1000.0,1400.0,"['implementation', 'math']",PROGRAMMING
+965,B,Battleship,1000.0,1300.0,['implementation'],PROGRAMMING
+54,A,Presents,500.0,1300.0,['implementation'],PROGRAMMING
+962,B,Students in Railway Carriage,,1300.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+962,A,Equator,,1300.0,['implementation'],PROGRAMMING
+961,B,Lecture Sleep,,1300.0,"['data structures', 'dp', 'implementation', 'two pointers']",PROGRAMMING
+957,A,Tritonic Iridescence,500.0,1300.0,['implementation'],PROGRAMMING
+740,A,Alyona and copybooks,500.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+145,A,Lucky Conversion,500.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+729,B,Spotlights,1000.0,1300.0,"['dp', 'implementation']",PROGRAMMING
+660,A,Co-prime Array,,1300.0,"['greedy', 'implementation']",PROGRAMMING
+55,A,Flea travel,500.0,1300.0,"['implementation', 'math']",PROGRAMMING
+611,B,New Year and Old Property,750.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+631,B,Print Check,1000.0,1300.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+51,A,Cheaterius's Problem,500.0,1300.0,['implementation'],PROGRAMMING
+60,A,Where Are My Flakes?,500.0,1300.0,"['implementation', 'two pointers']",PROGRAMMING
+64,A,Factorial,,1300.0,"['*special', 'implementation']",PROGRAMMING
+722,A,Broken Clock,500.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+625,C,K-special Tables,1000.0,1300.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+612,A,The Text Splitting,,1300.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+610,B,Vika and Squares,1000.0,1300.0,['implementation'],PROGRAMMING
+48,B,Land Lot,,1300.0,"['brute force', 'implementation']",PROGRAMMING
+982,B,Bus of Characters,1000.0,1300.0,"['data structures', 'greedy', 'implementation']",PROGRAMMING
+976,B,Lara Croft and the New Game,,1300.0,"['implementation', 'math']",PROGRAMMING
+16,B,Burglar and Matches,,1300.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+112,B,Petya and Square,1000.0,1300.0,"['implementation', 'math']",PROGRAMMING
+100,A,Carpeting the Room,,1300.0,"['*special', 'implementation']",PROGRAMMING
+426,B,Sereja and Mirroring,1000.0,1300.0,['implementation'],PROGRAMMING
+285,B,Find Marble,1000.0,1300.0,['implementation'],PROGRAMMING
+526,A,King of Thieves,500.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+347,A,Difference Row,500.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+463,A,Caisa and Sugar,500.0,1300.0,['implementation'],PROGRAMMING
+131,B,Opposites Attract,1000.0,1300.0,"['implementation', 'math']",PROGRAMMING
+413,B,Spyke Chatting,1000.0,1300.0,['implementation'],PROGRAMMING
+459,B,Pashmak and Flowers,500.0,1300.0,"['combinatorics', 'implementation', 'sortings']",PROGRAMMING
+469,B,Chat Online,1000.0,1300.0,['implementation'],PROGRAMMING
+412,C,Pattern,1500.0,1300.0,"['implementation', 'strings']",PROGRAMMING
+474,B,Worms,1000.0,1300.0,"['binary search', 'implementation']",PROGRAMMING
+134,A,Average Numbers,500.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+236,B,Easy Number Challenge,1000.0,1300.0,"['implementation', 'number theory']",PROGRAMMING
+475,A,Bayan Bus,500.0,1300.0,['implementation'],PROGRAMMING
+416,B,Art Union,1000.0,1300.0,"['brute force', 'dp', 'implementation']",PROGRAMMING
+489,A,SwapSort,500.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+454,B,Little Pony and Sort by Shift,1000.0,1300.0,['implementation'],PROGRAMMING
+312,A,Whose sentence is it?,500.0,1300.0,['implementation'],PROGRAMMING
+132,A,Turing Tape,500.0,1300.0,['implementation'],PROGRAMMING
+318,B,Strings of Power,500.0,1300.0,"['implementation', 'strings', 'two pointers']",PROGRAMMING
+451,B,Sort the Array,1000.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+125,B,Simple XML,1500.0,1300.0,['implementation'],PROGRAMMING
+400,B,Inna and New Matrix of Candies,1000.0,1300.0,"['brute force', 'implementation', 'schedules']",PROGRAMMING
+332,A,Down the Hatch!,500.0,1300.0,['implementation'],PROGRAMMING
+298,A,Snow Footprints,500.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+146,B,Lucky Mask,1000.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+151,B,Phone Numbers,1000.0,1300.0,"['implementation', 'strings']",PROGRAMMING
+144,B,Meeting,1000.0,1300.0,['implementation'],PROGRAMMING
+1003,C,Intense Heat,,1300.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+130,A,Hexagonal numbers,,1300.0,"['*special', 'implementation']",PROGRAMMING
+221,B,Little Elephant and Numbers,1000.0,1300.0,['implementation'],PROGRAMMING
+546,B,Soldier and Badges,1000.0,1300.0,"['brute force', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+552,B,Vanya and Books,1000.0,1300.0,"['implementation', 'math']",PROGRAMMING
+69,B,Bets,1000.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+350,A,TL,500.0,1300.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+216,A,Tiling with Hexagons,500.0,1300.0,"['implementation', 'math']",PROGRAMMING
+378,B,Semifinals,1000.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+352,B,Jeff and Periods,1000.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+376,B,I.O.U.,1000.0,1300.0,['implementation'],PROGRAMMING
+560,B,Gerald is into Art,1000.0,1300.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+353,A,Domino,500.0,1300.0,"['implementation', 'math']",PROGRAMMING
+567,B,Berland National Library,1000.0,1300.0,['implementation'],PROGRAMMING
+195,B,After Training,1000.0,1300.0,"['data structures', 'implementation', 'math']",PROGRAMMING
+192,A,Funky Numbers,500.0,1300.0,"['binary search', 'brute force', 'implementation']",PROGRAMMING
+147,A,Punctuation,500.0,1300.0,"['implementation', 'strings']",PROGRAMMING
+570,B,Simple Game,1000.0,1300.0,"['constructive algorithms', 'games', 'greedy', 'implementation', 'math']",PROGRAMMING
+370,B,Berland Bingo,500.0,1300.0,['implementation'],PROGRAMMING
+180,F,Mathematical Analysis Rocks!,,1300.0,"['constructive algorithms', 'implementation', 'math']",PROGRAMMING
+586,B,Laurenty and Shop,1000.0,1300.0,['implementation'],PROGRAMMING
+173,A,Rock-Paper-Scissors,500.0,1300.0,"['implementation', 'math']",PROGRAMMING
+116,B,Little Pigs and Wolves,1000.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+385,B,Bear and Strings,1000.0,1300.0,"['brute force', 'greedy', 'implementation', 'math', 'strings']",PROGRAMMING
+459,A,Pashmak and Garden,500.0,1300.0,['implementation'],PROGRAMMING
+234,C,Weather,,1300.0,"['dp', 'implementation']",PROGRAMMING
+1104,B,Game with string,1000.0,1300.0,"['data structures', 'implementation', 'math']",PROGRAMMING
+796,B,Find The Bone,750.0,1300.0,['implementation'],PROGRAMMING
+792,B,Counting-out Rhyme,,1300.0,['implementation'],PROGRAMMING
+787,B,Not Afraid,1000.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+761,B,Dasha and friends,1000.0,1300.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+754,A,Lesha and array splitting,500.0,1300.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+920,B,Tea Queue,,1300.0,['implementation'],PROGRAMMING
+750,B,New Year and North Pole,750.0,1300.0,"['geometry', 'implementation']",PROGRAMMING
+926,A,2-3-numbers,,1300.0,"['implementation', 'math']",PROGRAMMING
+959,B,Mahmoud and Ehab and the message,1000.0,1300.0,"['dsu', 'greedy', 'implementation']",PROGRAMMING
+1131,B,Draw!,1000.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+1118,B,Tanya and Candies,,1300.0,['implementation'],PROGRAMMING
+1100,B,Build a Contest,1000.0,1300.0,"['data structures', 'implementation']",PROGRAMMING
+808,B,Average Sleep Time,,1300.0,"['data structures', 'implementation', 'math']",PROGRAMMING
+285,C,Building Permutation,1500.0,1300.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+1099,C,Postcard,1250.0,1300.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+1055,B,Alice and Hairdresser,1000.0,1300.0,"['dsu', 'implementation']",PROGRAMMING
+1043,B,Lost Array,1000.0,1300.0,['implementation'],PROGRAMMING
+1059,B,Forgery,1000.0,1300.0,['implementation'],PROGRAMMING
+1030,C,Vasya and Golden Ticket,750.0,1300.0,['implementation'],PROGRAMMING
+1029,A,Many Equal Substrings,,1300.0,"['implementation', 'strings']",PROGRAMMING
+1027,B,Numbers on the Chessboard,,1300.0,"['implementation', 'math']",PROGRAMMING
+1023,A,Single Wildcard Pattern Matching,500.0,1300.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+1016,B,Segment Occurrences,,1300.0,"['brute force', 'implementation']",PROGRAMMING
+1015,B,Obtaining the String,,1300.0,['implementation'],PROGRAMMING
+807,B,T-Shirt Hunt,1000.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+1101,B,Accordion,,1300.0,"['greedy', 'implementation']",PROGRAMMING
+811,B,Vladik and Complicated Book,1000.0,1300.0,"['implementation', 'sortings']",PROGRAMMING
+908,B,New Year and Buggy Bot,750.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+812,A,Sagheer and Crossroads,500.0,1300.0,['implementation'],PROGRAMMING
+230,B,T-primes,500.0,1300.0,"['binary search', 'implementation', 'math', 'number theory']",PROGRAMMING
+342,A,Xenia and Divisors,500.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+222,B,Cosmic Tables,1000.0,1300.0,"['data structures', 'implementation']",PROGRAMMING
+519,C,A and B and Team Training,1500.0,1300.0,"['greedy', 'implementation', 'math', 'number theory']",PROGRAMMING
+592,A,PawnChess,500.0,1300.0,['implementation'],PROGRAMMING
+899,B,Months and Years,1000.0,1300.0,['implementation'],PROGRAMMING
+919,C,Seat Arrangements,1000.0,1300.0,"['brute force', 'implementation']",PROGRAMMING
+914,B,Conan and Agasa play a Card Game,1000.0,1300.0,"['games', 'greedy', 'implementation']",PROGRAMMING
+915,B,Browser,,1300.0,['implementation'],PROGRAMMING
+33,A,What is for dinner?,500.0,1300.0,"['greedy', 'implementation']",PROGRAMMING
+298,B,Sail,500.0,1300.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+509,B,Painting Pebbles,,1300.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+886,C,Petya and Catacombs,1500.0,1300.0,"['dsu', 'greedy', 'implementation', 'trees']",PROGRAMMING
+879,B,Table Tennis,1000.0,1300.0,"['data structures', 'implementation']",PROGRAMMING
+883,F,Lost in Transliteration,,1300.0,['implementation'],PROGRAMMING
+39,F,Pacifist frogs,,1300.0,['implementation'],PROGRAMMING
+828,B,Black Square,750.0,1300.0,['implementation'],PROGRAMMING
+39,H,Multiplication Table,,1300.0,['implementation'],PROGRAMMING
+40,A,Find Color,500.0,1300.0,"['constructive algorithms', 'implementation', 'math']",PROGRAMMING
+44,C,Holidays,,1300.0,['implementation'],PROGRAMMING
+898,B,Proper Nutrition,750.0,1300.0,"['brute force', 'implementation', 'number theory']",PROGRAMMING
+59,B,Fortune Telling,1000.0,1200.0,"['implementation', 'number theory']",PROGRAMMING
+645,A,Amity Assessment,500.0,1200.0,"['brute force', 'constructive algorithms', 'implementation']",PROGRAMMING
+66,B,Petya and Countryside,1000.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+635,A,Orchestra,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+659,C,Tanya and Toys,1000.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+570,A,Elections,500.0,1200.0,['implementation'],PROGRAMMING
+639,A,Bear and Displayed Friends,500.0,1200.0,['implementation'],PROGRAMMING
+869,A,The Artful Expedient,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+558,A,Lala Land and Apple Trees,500.0,1200.0,"['brute force', 'implementation', 'sortings']",PROGRAMMING
+743,A,Vladik and flights,500.0,1200.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+471,A,MUH and Sticks,500.0,1200.0,['implementation'],PROGRAMMING
+593,A,2Char,250.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+38,B,Chess,,1200.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+408,B,Garland,1000.0,1200.0,['implementation'],PROGRAMMING
+574,A,Bear and Elections,500.0,1200.0,['implementation'],PROGRAMMING
+366,B,Dima and To-do List,1000.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+548,A,Mike and Fax,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+616,A,Comparing Two Long Integers,,1200.0,"['implementation', 'strings']",PROGRAMMING
+660,B,Seating On Bus,,1200.0,['implementation'],PROGRAMMING
+5,A,Chat Servers Outgoing Traffic,,1200.0,['implementation'],PROGRAMMING
+103,A,Testing Pants for Sadness,500.0,1200.0,"['greedy', 'implementation', 'math']",PROGRAMMING
+722,B,Verse Pattern,500.0,1200.0,"['implementation', 'strings']",PROGRAMMING
+491,A,Up the hill,500.0,1200.0,['implementation'],PROGRAMMING
+478,A,Initial Bet,500.0,1200.0,['implementation'],PROGRAMMING
+75,A,Life Without Zeros,500.0,1200.0,['implementation'],PROGRAMMING
+557,A,Ilya and Diplomas,500.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+581,B,Luxurious Houses,1000.0,1200.0,['implementation'],PROGRAMMING
+602,A,Two Bases,500.0,1200.0,['implementation'],PROGRAMMING
+606,A,Magic Spheres,500.0,1200.0,['implementation'],PROGRAMMING
+63,B,Settlers' Training,1000.0,1200.0,['implementation'],PROGRAMMING
+591,B,Rebranding,1000.0,1200.0,['implementation'],PROGRAMMING
+612,B,HDD is Outdated Technology,,1200.0,['implementation'],PROGRAMMING
+583,B,Robot's Task,1000.0,1200.0,['implementation'],PROGRAMMING
+401,B,Sereja and Contests,1000.0,1200.0,"['greedy', 'implementation', 'math']",PROGRAMMING
+432,B,Football Kit,1000.0,1200.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+877,A,Alex and broken contest,500.0,1200.0,"['implementation', 'strings']",PROGRAMMING
+88,A,Chord,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+466,A,Cheap Travel,500.0,1200.0,['implementation'],PROGRAMMING
+767,A,Snacktower,500.0,1200.0,"['data structures', 'implementation']",PROGRAMMING
+43,B,Letter,1000.0,1200.0,"['implementation', 'strings']",PROGRAMMING
+452,A,Eevee,500.0,1200.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+799,A,Carrot Cakes,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+445,A,DZY Loves Chessboard,500.0,1200.0,"['dfs and similar', 'implementation']",PROGRAMMING
+439,B,"Devu, the Dumb Guy",1000.0,1200.0,"['implementation', 'sortings']",PROGRAMMING
+754,B,Ilya and tic-tac-toe game,1000.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+433,B,Kuriyama Mirai's Stones,1500.0,1200.0,"['dp', 'implementation', 'sortings']",PROGRAMMING
+433,A,Kitahara Haruki's Gift,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+813,A,The Contest,,1200.0,['implementation'],PROGRAMMING
+817,A,Treasure Hunt,,1200.0,"['implementation', 'math', 'number theory']",PROGRAMMING
+431,B,Shower Line,1500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+495,A,Digital Counter,500.0,1200.0,['implementation'],PROGRAMMING
+758,B,Blown Garland,1000.0,1200.0,['implementation'],PROGRAMMING
+467,B,Fedor and New Game,1000.0,1200.0,"['bitmasks', 'brute force', 'constructive algorithms', 'implementation']",PROGRAMMING
+389,B,Fox and Cross,1000.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+902,A,Visiting a Friend,500.0,1200.0,['implementation'],PROGRAMMING
+106,A,Card Game,500.0,1200.0,['implementation'],PROGRAMMING
+895,A,Pizza Separation,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+47,B,Coins,1000.0,1200.0,['implementation'],PROGRAMMING
+903,B,The Modcrab,,1200.0,"['greedy', 'implementation']",PROGRAMMING
+109,A,Lucky Sum of Digits,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+379,B,New Year Present,1000.0,1200.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+371,A,K-Periodic Array,500.0,1200.0,"['implementation', 'math']",PROGRAMMING
+828,A,Restaurant Tables,500.0,1200.0,['implementation'],PROGRAMMING
+911,B,Two Cakes,,1200.0,"['binary search', 'brute force', 'implementation']",PROGRAMMING
+913,B,Christmas Spruce,750.0,1200.0,"['implementation', 'trees']",PROGRAMMING
+916,A,Jamie and Alarm Snooze,500.0,1200.0,"['brute force', 'implementation', 'math']",PROGRAMMING
+413,A,Data Recovery,500.0,1200.0,['implementation'],PROGRAMMING
+424,B,Megacity,1000.0,1200.0,"['binary search', 'greedy', 'implementation', 'sortings']",PROGRAMMING
+825,A,Binary Protocol,,1200.0,['implementation'],PROGRAMMING
+721,B,Passwords,1000.0,1200.0,"['implementation', 'math', 'sortings', 'strings']",PROGRAMMING
+960,A,Check the string,500.0,1200.0,['implementation'],PROGRAMMING
+714,B,Filya and Homework,1000.0,1200.0,['implementation'],PROGRAMMING
+1090,M,The Pleasant Walk,,1200.0,['implementation'],PROGRAMMING
+237,A,Free Cash,500.0,1200.0,['implementation'],PROGRAMMING
+1070,K,Video Posts,,1200.0,['implementation'],PROGRAMMING
+222,A,Shooshuns and Sequence ,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+1075,B,Taxi drivers and Lyft,1000.0,1200.0,"['implementation', 'sortings']",PROGRAMMING
+1076,B,Divisor Subtraction,,1200.0,"['implementation', 'math', 'number theory']",PROGRAMMING
+139,A,Petr and Book,500.0,1200.0,['implementation'],PROGRAMMING
+1084,B,Kvass and the Fair Nut,1000.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+1006,B,Polycarp's Practice,,1200.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+208,D,"Prizes, Prizes, more Prizes",500.0,1200.0,['implementation'],PROGRAMMING
+203,A,Two Problems,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+1091,B,New Year and the Treasure Geolocation,1000.0,1200.0,"['constructive algorithms', 'greedy', 'implementation']",PROGRAMMING
+186,A,Comparing Strings,500.0,1200.0,"['implementation', 'strings']",PROGRAMMING
+1105,B,Zuhair and Strings,1000.0,1200.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+143,B,Help Kingdom of Far Far Away 2,1000.0,1200.0,"['implementation', 'strings']",PROGRAMMING
+292,B,Network Topology,1000.0,1200.0,"['graphs', 'implementation']",PROGRAMMING
+934,B,A Prosperous Lot,1000.0,1200.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+717,C,Potions Homework,,1200.0,"['implementation', 'sortings']",PROGRAMMING
+31,A,Worms Evolution,500.0,1200.0,['implementation'],PROGRAMMING
+985,A,Chess Placing,,1200.0,['implementation'],PROGRAMMING
+985,B,Switches and Lamps,,1200.0,['implementation'],PROGRAMMING
+302,B,Eugeny and Play List,1000.0,1200.0,"['binary search', 'implementation', 'two pointers']",PROGRAMMING
+596,A,Wilbur and Swimming Pool,500.0,1200.0,['implementation'],PROGRAMMING
+313,B,Ilya and Queries,1000.0,1200.0,"['dp', 'implementation']",PROGRAMMING
+975,B,Mancala,1000.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+315,B,Sereja and Array,1000.0,1200.0,['implementation'],PROGRAMMING
+931,B,World Cup,1000.0,1200.0,['implementation'],PROGRAMMING
+967,A,Mind the Gap,500.0,1200.0,['implementation'],PROGRAMMING
+327,A,Flipping Game,500.0,1200.0,"['brute force', 'dp', 'implementation']",PROGRAMMING
+300,A,Array,500.0,1200.0,"['brute force', 'constructive algorithms', 'implementation']",PROGRAMMING
+347,B,Fixed Points,1000.0,1200.0,"['implementation', 'math']",PROGRAMMING
+349,A,Cinema Line,500.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+355,B,Vasya and Public Transport,1000.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+166,A,Rank List,500.0,1200.0,"['binary search', 'implementation', 'sortings']",PROGRAMMING
+1121,B,Mike and Children,1000.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+234,A,Lefthanders and Righthanders ,,1200.0,['implementation'],PROGRAMMING
+519,B,A and B and Compilation Errors,1000.0,1200.0,"['data structures', 'implementation']",PROGRAMMING
+357,A,Group of Students,500.0,1200.0,"['brute force', 'greedy', 'implementation']",PROGRAMMING
+892,B,Wrath,1000.0,1200.0,"['implementation', 'two pointers']",PROGRAMMING
+365,B,The Fibonacci Segment,1000.0,1200.0,['implementation'],PROGRAMMING
+708,A,Letters Cyclic Shift,500.0,1200.0,"['constructive algorithms', 'greedy', 'implementation', 'strings']",PROGRAMMING
+56,A,Bar,500.0,1200.0,['implementation'],PROGRAMMING
+686,B,Little Robber Girl's Zoo,1000.0,1200.0,"['constructive algorithms', 'implementation', 'sortings']",PROGRAMMING
+78,B,Easter Eggs,1000.0,1200.0,"['constructive algorithms', 'implementation']",PROGRAMMING
+136,B,Ternary Logic,1000.0,1200.0,"['implementation', 'math']",PROGRAMMING
+514,A,Chewbaсca and Number,500.0,1200.0,"['greedy', 'implementation']",PROGRAMMING
+53,A,Autocomplete,500.0,1200.0,['implementation'],PROGRAMMING
+505,A,Mr. Kitayuta's Gift,500.0,1200.0,"['brute force', 'implementation', 'strings']",PROGRAMMING
+52,A,123-sequence,500.0,1200.0,['implementation'],PROGRAMMING
+712,B,Memory and Trident,1000.0,1200.0,['implementation'],PROGRAMMING
+743,B,Chloe and the sequence ,1000.0,1200.0,"['binary search', 'bitmasks', 'constructive algorithms', 'implementation']",PROGRAMMING
+1042,B,Vitamins,1000.0,1200.0,"['bitmasks', 'brute force', 'dp', 'implementation']",PROGRAMMING
+1042,A,Benches,500.0,1200.0,"['binary search', 'implementation']",PROGRAMMING
+239,A,Two Bags of Potatoes,500.0,1200.0,"['greedy', 'implementation', 'math']",PROGRAMMING
+133,B,Unary,1000.0,1200.0,['implementation'],PROGRAMMING
+1017,B,The Bits,1000.0,1200.0,"['implementation', 'math']",PROGRAMMING
+252,A,Little Xor,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+13,A,Numbers,,1200.0,"['implementation', 'math']",PROGRAMMING
+1011,B,Planning The Expedition,1000.0,1200.0,"['binary search', 'brute force', 'implementation']",PROGRAMMING
+362,B,Petya and Staircases,500.0,1200.0,"['implementation', 'sortings']",PROGRAMMING
+255,B,Code Parsing,1000.0,1200.0,['implementation'],PROGRAMMING
+257,A,Sockets,500.0,1200.0,"['greedy', 'implementation', 'sortings']",PROGRAMMING
+270,A,Fancy Fence,500.0,1200.0,"['geometry', 'implementation', 'math']",PROGRAMMING
+1000,A,Codehorses T-shirts,,1200.0,"['greedy', 'implementation']",PROGRAMMING
+287,A,IQ Test,500.0,1200.0,"['brute force', 'implementation']",PROGRAMMING
+999,C,Alphabetic Removals,,1200.0,['implementation'],PROGRAMMING
+1051,A,Vasya And Password,,1200.0,"['greedy', 'implementation', 'strings']",PROGRAMMING
+127,B,Canvas Frames,1000.0,1200.0,['implementation'],PROGRAMMING
+492,B,Vanya and Lanterns,1000.0,1200.0,"['binary search', 'implementation', 'math', 'sortings']",PROGRAMMING
